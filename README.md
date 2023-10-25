@@ -10,7 +10,7 @@ I'm a .NET Developer who is passionate about making error free software with 100
 
 
 
-<h3>Skills:</h3> C#, ASP.NET, ASP.NET MVC, ASP.NET Core, ASP.NET Core API, SQL, MySQL, SQLite, ReactJS  </br>
+<h3>Skills:</h3><p></p> C#, ASP.NET, ASP.NET MVC, ASP.NET Core, ASP.NET Core API, SQL, MySQL, SQLite, ReactJS </p> </br>
 
 - 🔭 I’m currently working on this  as a Software Engineer at Interlink Technologies Limitedpage. 
 - 🌱 I’m currently learning Angular 
