@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Sirazul Islam
 #### .NET Developer
 
-I'm a .NET Developer who is passionate about making error free software with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I work with windows form, web forms, ASP.NET MVC, ASP.NET MVC Core, ASP.NET MVC Core API
+<p>I'm a .NET Developer who is passionate about making error free software with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I work with windows form, web forms, ASP.NET MVC, ASP.NET MVC Core, ASP.NET MVC Core API</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -10,7 +10,7 @@ I'm a .NET Developer who is passionate about making error free software with 100
 
 
 
-<h3>Skills:</h3><p></p> C#, ASP.NET, ASP.NET MVC, ASP.NET Core, ASP.NET Core API, SQL, MySQL, SQLite, ReactJS </p> </br>
+<h3>Skills:</h3><p style="color: green"> C#, ASP.NET, ASP.NET MVC, ASP.NET Core, ASP.NET Core API, SQL, MySQL, SQLite, ReactJS </p> </br>
 
 - 🔭 I’m currently working on this  as a Software Engineer at Interlink Technologies Limitedpage. 
 - 🌱 I’m currently learning Angular 
