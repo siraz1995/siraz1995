@@ -1,7 +1,6 @@
 ![.NET Developer](https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/357754141_3236713909953862_4983094813959503135_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kAQTvJo2IUkAX-WmdRf&_nc_ht=scontent.fdac13-1.fna&oh=00_AfCrTHmE5EPnPp8_sTLtZvMuRpxzuX_MbLfRtQWlsuuo7w&oe=653B8855)
 ### Hi there 👋, I'm Sirazul Islam
 #### .NET Developer
-![.NET Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a .NET Developer who is passionate about making error free software with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I work with windows form, web forms, ASP.NET MVC, ASP.NET MVC Core, ASP.NET MVC Core API
 
