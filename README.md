@@ -12,7 +12,7 @@
 
 <h3>Skills:</h3><p> C#, ASP.NET, ASP.NET MVC, ASP.NET Core, ASP.NET Core API, SQL, MySQL, SQLite, ReactJS </p>
 
-- 🔭 I’m currently working on this  as a Software Engineer at Interlink Technologies Limitedpage. 
+- 🔭 I’m currently working on as a Software Engineer at Interlink Technologies Limited. 
 - 🌱 I’m currently learning Angular 
 - 👯 I’m looking to collaborate on My project member 
 - 🤔 I’m looking for help with My Senior 
