@@ -10,7 +10,7 @@
 
 
 
-<h3>Skills:</h3><p style="color: green"> C#, ASP.NET, ASP.NET MVC, ASP.NET Core, ASP.NET Core API, SQL, MySQL, SQLite, ReactJS </p> </br>
+<h3>Skills:</h3><p> C#, ASP.NET, ASP.NET MVC, ASP.NET Core, ASP.NET Core API, SQL, MySQL, SQLite, ReactJS </p>
 
 - 🔭 I’m currently working on this  as a Software Engineer at Interlink Technologies Limitedpage. 
 - 🌱 I’m currently learning Angular 
