@@ -4,7 +4,7 @@
 ### Hi there 👋, I'm Sirazul Islam
 #### .NET Developer
 
-<p>I'm a .NET Developer who is passionate about making error free software with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I work with windows form, web forms, ASP.NET MVC, ASP.NET MVC Core, ASP.NET MVC Core API</p>
+<p>"As a dedicated .NET Developer, I am committed to crafting error-free software that guarantees 100% client satisfaction. My passion for learning and sharing knowledge extends to public forums, where I actively contribute to the community. Specializing in Windows Forms, Web Forms, ASP.NET MVC, and ASP.NET MVC Core, I thrive on solving real-world problems with innovative solutions. From Windows Forms to the latest in MVC Core API, I am on a mission to build robust and client-centric software solutions."</p>
 
 
 <h3>Languages and Tools:</h3>
