@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" alt="Plex" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
-
+<img src="https://img.shields.io/badge/ReactJs-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
 
 
 
