@@ -1,45 +1,24 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siraz1995&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=siraz1995&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siraz1995&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siraz1995&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=siraz1995&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
-
-[![](https://visitcount.itsvg.in/api?id=siraz1995&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 <h1 align="center">Hi 👋, I'm Sirazul Islam</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="left">
   <img src="https://visitcount.itsvg.in/api?id=siraz1995&icon=0&color=3" alt="Profile Visit Count" />
 </p>
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraz1995&theme=algolia" alt="siraz1995" /></a> </p>
+
 ## 🏆 GitHub Trophies
 <p align="left"> 
   <a href="https://github-profile-trophy.vercel.app/?username=siraz1995&theme=radical&no-frame=false&no-bg=false&margin-w=4">
     <img src="https://github-profile-trophy.vercel.app/?username=siraz1995&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   </a> 
 </p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siraz1995&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 - 🔭 I’m currently working on [Interlink Tech Soft Ltd.](https://www.intertechbd.com/)
 - 🌱 I’m currently learning **NextJS.**
 - 💬 Ask me about **Anything for Full Stack Development**
 - 📫 How to reach me **sirazulislam.bd.2014@gmail.com**
 - 👨‍💻 All of my projects are available at **[Portfolio](https://github.com/siraz1995)**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siraz1995&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <div> <a href="https://twitter.com/sirazul51567508?t=nKWdRNThcPMiMnGq2SN25A&s=08" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sirazul-islam-693506212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/siraz1995" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
