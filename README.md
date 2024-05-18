@@ -19,7 +19,7 @@
 
 <h1 align="center">Hi 👋, I'm Sirazul Islam</h1>
 <h3 align="center">Full Stack Developer</h3>
-[![](https://visitcount.itsvg.in/api?id=siraz1995&icon=0&color=3)](https://visitcount.itsvg.in)
+(https://visitcount.itsvg.in/api?id=siraz1995&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
