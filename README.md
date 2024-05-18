@@ -72,11 +72,6 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siraz1995&theme=neon" alt="siraz1995" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siraz1995&show_icons=true&locale=en&layout=compact" alt="siraz1995" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siraz1995&show_icons=true&locale=en" alt="siraz1995" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siraz1995&" alt="siraz1995" /></p>
 
 
 
