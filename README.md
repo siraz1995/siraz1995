@@ -76,9 +76,7 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraz1995&langs_count=8&theme=neon" alt=siraz1995 />
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraz1995&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt=siraz1995 />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siraz1995&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraz1995&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt=siraz1995 />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=siraz1995&show_icons=true&locale=en&theme=neon" alt="siraz1995" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siraz1995&theme=neon" alt="siraz1995" /></p>
