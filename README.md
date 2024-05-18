@@ -83,7 +83,7 @@
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQGXWNGNFHG4vg/profile-displaybackgroundimage-shrink_350_1400/0/1699200167703?e=1709164800&v=beta&t=FEE-mADAClSD0rrMuBR7EwdY9Uw8o49aDpc7zdhX-E8)
 
-### Hi there 👋, I'm Sirazul Islam
+[### Hi there 👋, I'm Sirazul Islam
 #### .NET Developer
 
 <p>"As a dedicated .NET Developer, I am committed to crafting error-free software that guarantees 100% client satisfaction. My passion for learning and sharing knowledge extends to public forums, where I actively contribute to the community. Specializing in Windows Forms, Web Forms, ASP.NET MVC, and ASP.NET MVC Core, I thrive on solving real-world problems with innovative solutions. From Windows Forms to the latest in MVC Core API, I am on a mission to build robust and client-centric software solutions."</p>
@@ -120,6 +120,6 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=siraz1995)  
 
-![Profile views](https://gpvc.arturio.dev/siraz1995)  
+![Profile views](https://gpvc.arturio.dev/siraz1995)  ]([url]([url]([url]([url]([url]([url]([url]([url]([url]([url](url)))))))))))
 
 
