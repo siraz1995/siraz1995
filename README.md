@@ -1,8 +1,5 @@
-[<a href="https://app.daily.dev/muhammadasif_wd"><img src="https://api.daily.dev/devcards/v2/5ha5dAGr2iCDZiTImuVu9.png?type=wide&r=tke" width="1024" alt="Muhammad Asif's Dev Card"/></a>
-[<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadasif-wd&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadasif-wd" /> </p>](url)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadasif-wd&theme=algolia" alt="muhammadasif-wd" /></a> </p>
-](url)
+
 - 🔭 I’m currently working on [Interlink Tech Soft Ltd.](https://www.intertechbd.com/)
 - 👯 I’m looking to collaborate on [DevBrainss](https://github.com/DevBrainss)
 - 🤝 I’m looking for help with [y00ts](https://y00ts.vercel.app/)
