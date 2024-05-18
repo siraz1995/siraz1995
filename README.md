@@ -6,7 +6,6 @@
 </p>
 
 ## 🏆 GitHub Trophies
-<h2 color: green;">🏆 GitHub Trophies</h2>
 <p align="left"> 
   <a href="https://github-profile-trophy.vercel.app/?username=siraz1995&theme=radical&no-frame=false&no-bg=false&margin-w=4">
     <img src="https://github-profile-trophy.vercel.app/?username=siraz1995&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
