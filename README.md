@@ -22,8 +22,16 @@
 <p align="left">
   <img src="https://visitcount.itsvg.in/api?id=siraz1995&icon=0&color=3" alt="Profile Visit Count" />
 </p>
+## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraz1995&theme=algolia" alt="siraz1995" /></a> </p>
-
+## 🏆 GitHub Trophies
+<p align="left"> 
+  <a href="https://github-profile-trophy.vercel.app/?username=siraz1995&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=siraz1995&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </a> 
+</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=siraz1995&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 - 🔭 I’m currently working on [Interlink Tech Soft Ltd.](https://www.intertechbd.com/)
 - 🌱 I’m currently learning **NextJS.**
 - 💬 Ask me about **Anything for Full Stack Development**
