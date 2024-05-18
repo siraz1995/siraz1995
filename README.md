@@ -6,14 +6,14 @@
 </p>
 
 ## 🏆 GitHub Trophies
-<h2 style="color: green;">🏆 GitHub Trophies</h2>
+<h2 color: green;">🏆 GitHub Trophies</h2>
 <p align="left"> 
   <a href="https://github-profile-trophy.vercel.app/?username=siraz1995&theme=radical&no-frame=false&no-bg=false&margin-w=4">
     <img src="https://github-profile-trophy.vercel.app/?username=siraz1995&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Interlink Tech Soft Ltd.](https://www.intertechbd.com/)
+- 🔭 I’m currently working on [Interlink TechSoft Ltd.](https://www.intertechbd.com/)
 - 🌱 I’m currently learning **NextJS.**
 - 💬 Ask me about **Anything for Full Stack Development**
 - 📫 How to reach me **sirazulislam.bd.2014@gmail.com**
