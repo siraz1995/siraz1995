@@ -18,8 +18,8 @@
 - 🌱 I’m currently learning **NextJS.**
 - 💬 Ask me about **Anything for Full Stack Development**
 - 📫 How to reach me **sirazulislam.bd.2014@gmail.com**
-- 👨‍💻 All of my projects are available at **[Portfolio](https://github.com/siraz1995)**
-- 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/dashboard)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/siraz1995)**
+- 📝 I regularly write articles on **[Dev.to](https://dev.to/dashboard)
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TeNtLppoUiOVn3FCGAi2-fQGwJ0Q19J-/view?usp=sharing](https://drive.google.com/file/d/1TeNtLppoUiOVn3FCGAi2-fQGwJ0Q19J-/view?usp=sharing)
 - ⚡ Fun fact **The first version of C# was released in 2002 as part of Microsoft's .NET initiative, and it was developed by Anders Hejlsberg.**
 
