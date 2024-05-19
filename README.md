@@ -81,6 +81,8 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/rdlc%20reports-%23007396.svg?style=for-the-badge&logo=rdlc&logoColor=white" alt="RDLC Reports" />
+
 
 </p>
 
