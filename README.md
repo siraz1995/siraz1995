@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://app.daily.dev/sirazulislam"><img src="https://api.daily.dev/devcards/v2/UYXpBQAY1Aaq5CHRk0mLA.png?type=wide&r=jxi" width="652" alt="Sirazul Islam's Dev Card"/></a>
+<a href="https://app.daily.dev/sirazulislam"><img src="https://api.daily.dev/devcards/v2/UYXpBQAY1Aaq5CHRk0mLA.png?type=wide&r=jxi" width="1024" alt="Sirazul Islam's Dev Card"/></a>
   </p>
 <p align="left">
   <img src="https://visitcount.itsvg.in/api?id=siraz1995&icon=0&color=3" alt="Profile Visit Count" />
