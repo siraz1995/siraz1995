@@ -13,10 +13,15 @@
 </p>
 
 - 🔭 I’m currently working on [Interlink TechSoft Ltd.](https://www.intertechbd.com/)
+- 👯 I’m looking to collaborate on [DEV Community](https://dev.to/dashboard)
+- 🤝 I’m looking for help with [DEV Community](https://dev.to/dashboard)
 - 🌱 I’m currently learning **NextJS.**
 - 💬 Ask me about **Anything for Full Stack Development**
 - 📫 How to reach me **sirazulislam.bd.2014@gmail.com**
 - 👨‍💻 All of my projects are available at **[Portfolio](https://github.com/siraz1995)**
+- 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/dashboard)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TeNtLppoUiOVn3FCGAi2-fQGwJ0Q19J-/view?usp=sharing](https://drive.google.com/file/d/1TeNtLppoUiOVn3FCGAi2-fQGwJ0Q19J-/view?usp=sharing)
+- ⚡ Fun fact **The first version of C# was released in 2002 as part of Microsoft's .NET initiative, and it was developed by Anders Hejlsberg.**
 
 
 <div> <a href="https://twitter.com/sirazul51567508?t=nKWdRNThcPMiMnGq2SN25A&s=08" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
