@@ -103,7 +103,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraz1995&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt=siraz1995 />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=siraz1995&show_icons=true&locale=en&theme=neon" alt="siraz1995" /></p>
 
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siraz1995&theme=neon" alt="siraz1995" />
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siraz1995&theme=neon" alt="siraz1995" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=siraz1995&limit=5&theme=radical&combine_all_yearly_contributions=true)
